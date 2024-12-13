@@ -3,7 +3,7 @@
 Gem::Specification.new do |spec|
   spec.name = "dc-guard"
   spec.required_ruby_version = ">= 3.0.0"
-  spec.version     = "0.0.1"
+  spec.version     = "0.0.2"
   spec.platform    = Gem::Platform::RUBY
   spec.authors     = ["David Crosby"]
   spec.homepage    = "https://daveops.net"
